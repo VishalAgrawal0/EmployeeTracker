@@ -15,3 +15,17 @@ EmployeeTracker ensures data consistency and integrity by employing proper valid
 It uses H2 dependency as in memory database interactions, and uses JpaRepository class for repository operations.
 
 Designed with scalability and maintainability in mind, EmployeeManager is ideal for small to medium-sized businesses seeking an effective solution to manage employee information.
+
+
+
+
+Dependencies :: 
+
+![dependencies](https://github.com/user-attachments/assets/ceead765-18a0-4161-a045-8398231b8419)
+
+
+Package structure :: 
+
+
+![package ](https://github.com/user-attachments/assets/a687ea10-4310-442b-b0e6-5bb70d1f26c2)
+
